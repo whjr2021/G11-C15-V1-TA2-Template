@@ -1,7 +1,7 @@
 # From "firebase" library import "firebase" module
 
 
-# Establish connection between Python and Car Racing databse created on Firbase.
+# Establish connection between Python and Car Racing database created on Firebase.
 # The connection is stored in the variable "db"
 
 
